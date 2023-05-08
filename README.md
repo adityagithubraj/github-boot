@@ -2,7 +2,11 @@
 <h2>	Hair Salon Appointment Booking System<h2>
 <img width="30%" src="https://github.com/adityagithubraj/github-boot/blob/main/imge/SALONLEX%20(1).png"><br><br>
 
-
+<h2 >Descriptions </h2>
+<br>
+<h3>Styler is a hair salon website that enables customers to book appointments online. The platform showcases available time slots, stylists, and charges for haircuts, allowing for a seamless user experience.
+<h3>
+<br><br>
 
 </div>
     <h1>Project Name - SALONLEX</h>
