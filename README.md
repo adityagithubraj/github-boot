@@ -9,11 +9,11 @@
     
    <br><br>
    <h2>Team</h2>
-   <h3>1. Amarjeet Kumar	(Team Lead)</h3>
-   <h3>2. Love Porwal</h3>
-   <h3>3. Rahul gandhi</h3>
-   <h3>4. shahfaisal pinitod </h3>
-   <h3>5. Aditya Raj</h3>
+   <h3>1. Amarjeet Kumar	- (Team Lead)</h3>
+   <h3>2. Love Porwal       - (Team Member)</h3>
+   <h3>3. Rahul gandhi      - (Team Member)</h3>
+   <h3>4. shahfaisal pinitod - (Team Member) </h3>
+   <h3>5. Aditya Raj         -  (Team Member)</h3>
    <br><br>
    
 ## Deployed Link :
@@ -131,7 +131,7 @@
 
 - Stylers 
                 
-        GET    -   /stylist/styler 
+        GET    -   /stylist/male
         POST   -   /stylist/styler/addStylistService
         PATCH  -   /stylist/styler/update/:id
         DELETE -   /stylist/styler/delete/:id
@@ -187,6 +187,23 @@
   
   ![image](https://github.com/adityagithubraj/github-boot/blob/main/imge/style.png)
   
+  <h1>6. Appointments </h1>
+  <br><br>
+  
+  ![Admin](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-dashboard.png)
+  
+  ![Admin1](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-users.png)
+  
+  ![Admin2](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-logs.png)
+  
+  <h1>6. Service </h1>
+  <br><br>
+  
+  ![Admin](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-dashboard.png)
+  
+  ![Admin1](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-users.png)
+  
+  ![Admin2](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-logs.png)
   <h1>6. Admin  </h1>
   <br><br>
   
