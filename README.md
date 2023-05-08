@@ -1,6 +1,6 @@
 <div align="center" > 
 <h2>	Hair Salon Appointment Booking System<h2>
-<img width="30%" src="https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/qrlogo.png"><br><br>
+<img width="30%" src="https://github.com/adityagithubraj/github-boot/blob/main/imge/SALONLEX%20(1).png"><br><br>
 
 
 
@@ -21,7 +21,7 @@
     
   <h1>1.  Home Page  </h1><br><br>
   
-![Home 1](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(586).png)
+![Home 1](https://github.com/adityagithubraj/github-boot/blob/main/imge/home.png)
 
   ![home 2](https://github.com/adityagithubraj/github-boot/blob/main/imge/mid.png)
 
