@@ -16,9 +16,94 @@
    <h3>5. Aditya Raj</h3>
    <br><br>
    
+## Deployed Link :
+
+   - Frontend - https://snipsandspikes.netlify.app/
+   - Backend  - https://nice-pink-antelope-gear.cyclic.app/
 
 
+<br>
+ 
+<br>
+
+
+# Tech stack 
+
+### Frontend 
+
+- Bootstrap / HTML / CSS / JavaScript / SweeperJS 
+
+### Backend 
+ 
+- NodeJS 
+- ExpressJS
+- Database : MongoDB 
+
+
+
+# Schema : 
+
+- user 
+   - name
+   - age
+   - gender
+   - email
+   - password
+
+- stylist 
     
+   - image_urls
+   - Stylists_name
+   - descriptions
+   - Styler
+
+- style 
+    
+  -  Name
+  -  Image
+  -  Price
+  -  Gender
+
+- Slots 
+     - id
+     - start time
+     - end time
+     - stylistId
+     - available
+     - slotId  
+
+- products
+    - title
+   - img
+   - price
+   - mrp_price
+   - description
+   - discount
+   - category
+   - rating
+   - type
+    
+- appointments 
+   - stylist_id
+   - user_id
+   - style_id
+   - date
+   - time
+   - style_name
+   - styler_name
+   
+- Admin
+   - name
+   - linkedin
+   - Github
+   - email
+   - pass
+   - image
+
+## 
+<br>
+ <h1>1.  System design </h1><br><br>
+    ![snips spikes drawio (1)](https://user-images.githubusercontent.com/87657007/228304975-dc21afa6-a2bb-407a-bcd0-fbd1d1baa52c.png)
   <h1>1.  Home Page  </h1><br><br>
   
 ![Home 1](https://github.com/adityagithubraj/github-boot/blob/main/imge/home.png)
