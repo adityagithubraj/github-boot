@@ -41,7 +41,7 @@
 
 ### Frontend 
 
-- Bootstrap / HTML / CSS / JavaScript / SweeperJS 
+- Bootstrap / HTML / CSS / JavaScript 
 
 ### Backend 
  
