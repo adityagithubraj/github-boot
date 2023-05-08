@@ -190,20 +190,15 @@
   <h1>6. Appointments </h1>
   <br><br>
   
-  ![Admin](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-dashboard.png)
+  ![Appointments](https://github.com/adityagithubraj/github-boot/blob/main/imge/Appointments.png)
   
-  ![Admin1](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-users.png)
-  
-  ![Admin2](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-logs.png)
-  
+ 
   <h1>6. Service </h1>
   <br><br>
   
-  ![Admin](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-dashboard.png)
+  ![Service](https://github.com/adityagithubraj/github-boot/blob/main/imge/menstyle.png)
   
-  ![Admin1](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-users.png)
-  
-  ![Admin2](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-logs.png)
+ 
   <h1>6. Admin  </h1>
   <br><br>
   
