@@ -75,31 +75,31 @@ Node.js,Express.js (Framework) <br>
   
 ![Home 1](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(586).png)
 
-  ![home 2](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(587).png)
+  ![home 2](https://github.com/adityagithubraj/github-boot/blob/main/imge/mid.png)
 
-  ![home 3](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(588).png)
+  ![home 3](https://github.com/adityagithubraj/github-boot/blob/main/imge/futer.png)
 
   <h1>2. Login  </h1>
   <br><br>
   
-  ![login](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(589).png)
+  ![login](https://github.com/adityagithubraj/github-boot/blob/main/imge/login.png)
   
   <h1>3. Signup  </h1>
   <br><br>
   
-  ![signup](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(590).png)
+  ![signup](https://github.com/adityagithubraj/github-boot/blob/main/imge/sigup.png)
   
-  <h1>4. QR Code Generator  </h1>
+  <h1>4. Products  </h1>
   <br><br>
   
-  ![image](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(591).png)
+  ![image](https://github.com/adityagithubraj/github-boot/blob/main/imge/products.png)
 
-  ![image](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/Screenshot%20(592).png)
+  ![image](https://github.com/adityagithubraj/github-boot/blob/main/imge/product2.png)
 
-  <h1>5. QR Code Scanner  </h1>
+  <h1>5.Style </h1>
   <br><br>
   
-  ![image]()
+  ![image](https://github.com/adityagithubraj/github-boot/blob/main/imge/style.png)
   
   <h1>6. Admin  </h1>
   <br><br>
