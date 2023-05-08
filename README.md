@@ -208,12 +208,9 @@
   <h1>6. Admin  </h1>
   <br><br>
   
-  ![Admin](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-dashboard.png)
+  ![Admin](https://github.com/adityagithubraj/github-boot/blob/main/imge/admin.png)
   
-  ![Admin1](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-users.png)
-  
-  ![Admin2](https://github.com/adityagithubraj/-direful-order-8525/blob/main/Frontend/Images/admin-logs.png)
-  
+ 
   
 
 
