@@ -101,9 +101,62 @@
    - image
 
 ## 
+    # API Endpoints 
+----
 <br>
- <h1>1.  System design </h1><br><br>
-    ![snips spikes drawio (1)](https://user-images.githubusercontent.com/87657007/228304975-dc21afa6-a2bb-407a-bcd0-fbd1d1baa52c.png)
+
+## `Services`
+<br>   
+
+- Male Services
+                
+        GET    -   /services/male 
+        POST   -   /services/male/addMaleService
+        PATCH  -   /services/male/update/:id
+        DELETE -   /services/male/delete/:id
+
+- Female Services
+
+        GET    -   /services/female 
+        GET    -   /services/female/female/:id 
+        POST   -   /services/female/addFemaleService
+        PATCH  -   /services/female/update/:id
+        DELETE -   /services/female/delete/:id
+
+
+<br>
+
+## `Stylist`
+<br>   
+
+- Stylers 
+                
+        GET    -   /stylist/styler 
+        POST   -   /stylist/styler/addStylistService
+        PATCH  -   /stylist/styler/update/:id
+        DELETE -   /stylist/styler/delete/:id
+
+
+<br>
+
+## `Appointment`
+<br>   
+
+- Appointment 
+                
+        GET    -   /appointments/appointment
+        POST   -   /appointments/appointment/add
+        PATCH  -   /appointments/appointment/update/:id
+        DELETE -   /appointments/appointment/delete/:id
+
+<br>
+    # System design
+- we can give home services
+
+
+
+![snips spikes drawio (1)](https://user-images.githubusercontent.com/87657007/228304975-dc21afa6-a2bb-407a-bcd0-fbd1d1baa52c.png)
+
   <h1>1.  Home Page  </h1><br><br>
   
 ![Home 1](https://github.com/adityagithubraj/github-boot/blob/main/imge/home.png)
